@@ -1,6 +1,7 @@
 # 用一个 demo 说明项目分工
 
 (代码仅内部分享)
+@CVRS: http://cvrs.whu.edu.cn/svn/BIRX/trunk/Programs/BridgeDetection/BridgeDetection/examples/QtDemo/
 
 Notice
 > 用 VS 的说明方式，这里把整个项目称为 **solution**，
