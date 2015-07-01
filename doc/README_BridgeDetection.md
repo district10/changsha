@@ -3,6 +3,7 @@ BridgeDetection
 
 这个文件夹下是用 cmake 集成好的部分
 -----------------------------------
+文档有在线版本（markdown 渲染显示效果好）: https://github.com/district/changsha
 
 ### 开发需要安装的软件
 

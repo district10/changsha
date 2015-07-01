@@ -4,7 +4,7 @@ SRC="D:/tzx/SVN/BridgeDetection_alpha"
 DST="D:/tzx/git/changsha/doc"
 
 cp \
-${SRC}/README.txt
+${SRC}/README.txt \
 ${DST}/README_BridgeDetection.md
 
 cp \
