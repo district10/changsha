@@ -1,12 +1,16 @@
 #!/bin/bash
 
 SRC="D:/tzx/SVN/BridgeDetection_alpha"
-DST="D:/tzx/git/changsha/doc"
+DST="D:/tzx/git/changsha"
 
 cp \
 ${SRC}/README.txt \
-${DST}/README_BridgeDetection.md
+${DST}/doc/README_BridgeDetection.md
 
 cp \
-${SRC}/naming-strategies.txt \
-${DST}/naming-strategies.md
+${SRC}/doc/naming-strategies.txt \
+${DST}/doc/naming-strategies.md
+
+cp \
+${SRC}/doc/modulize.txt
+${DST}/doc/modulize.md

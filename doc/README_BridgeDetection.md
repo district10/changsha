@@ -30,7 +30,7 @@ Options:
 
 ### 界面和类低耦合，可参考:
 
-0. 在线文档说明: https://github.com/district10/changsha
+0. 在线文档说明: https://github.com/district10/changsha/doc/modulize.md
 0. 代码和文档: http://cvrs.whu.edu.cn/svn/BIRX/trunk/Programs/BridgeDetection/BridgeDetection/examples/QtDemo
 0. 建议互相 code review
 
