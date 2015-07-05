@@ -14,3 +14,8 @@ ${DST}/doc/naming-strategies.md
 cp \
 ${SRC}/doc/modulize.txt
 ${DST}/doc/modulize.md
+
+for md in ${SRC}/doc/*.md;
+do
+    cp $md ${DST}/doc
+done
