@@ -42,7 +42,8 @@ QExtSerialPort
     + 成员函数：`IMUReader *imu;`
     + 构造函数：`imu = new IMUReader();`
 0. 在界面上添加一个 action，调用 `IMUConfigurationAgent` 配置 imu：
-    + ```cpp
+    + 
+    ```cpp
     IMUConfigurationAgent agent(imu);
     agent.show();
     ```
