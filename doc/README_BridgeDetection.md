@@ -11,7 +11,9 @@ Deps:
 
 0. Windows x64
 0. Visual Studio 2010 x64 (非 express)
-0. Qt4: http://7xjdjw.com1.z0.glb.clouddn.com/qt-4.8.6-x64-msvc2010.exe
+0. Qt4: 
+    * http://7xjdjw.com1.z0.glb.clouddn.com/qt-4.8.6-x64-msvc2010.exe
+    * http://7xjdjw.com1.z0.glb.clouddn.com/Qt_Config.7z
 0. OpenCV: http://7xjdjw.com1.z0.glb.clouddn.com/opencv-2.4.11.exe
 
 Options: 
